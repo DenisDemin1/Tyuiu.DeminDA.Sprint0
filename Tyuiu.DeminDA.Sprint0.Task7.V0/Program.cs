@@ -19,7 +19,7 @@ namespace Tyuiu.DeminDA.Sprint0.Task7.V0
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");
-            Console.WriteLine("* Выполнил: Дёмин Денис Александрович | ИИПБ-23-1                         *");
+            Console.WriteLine("* Выполнил: Дёмин Денис Александрович | ИИПБ-23-2                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значение двух    *");
